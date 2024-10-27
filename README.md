@@ -8,3 +8,4 @@ This web application provides a simple and intuitive interface for converting te
 
 ## Preview:
 
+![image](https://github.com/user-attachments/assets/55939865-8cdf-4832-bf6a-65d6ed9161e5)
